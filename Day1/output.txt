@@ -1,0 +1,2 @@
+Sum is 10 
+ Multiply is 25
